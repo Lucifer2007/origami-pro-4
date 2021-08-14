@@ -1,0 +1,242 @@
+.header {
+    background-color: aqua;
+   display:flex;
+   justify-content:space-between;
+   text-decoration: underline;
+   font-style: italic;
+  
+  
+    
+}
+hr {
+    border-top:1px solid black;
+    position:absolute;
+    left:400px;
+    width:600px;
+    
+}
+h2 {
+    width:500px;
+    height:35px;
+    display:flex;
+    justify-content: center;
+    background-color: rgb(4, 247, 77);
+    text-decoration: underline;
+    text-align:center;
+    position:absolute;
+    left:400px
+}
+
+
+
+
+.images {
+    position:absolute;
+    top: 200px;
+    text-shadow: 2px 2px 5px red;
+    font-style: italic;
+   justify-content: right;
+   
+}
+
+.text1 {
+    position:absolute;
+    top:325px;
+    right: 4px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+
+}
+
+.text2 {
+    position:absolute;
+    top:700px;
+    right:140px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+}
+.text3 {
+    position:absolute;
+    top:1225px;
+    right:140px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+}
+.text4 {
+    position:absolute;
+    top:1725px;
+    right:140px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+}
+.text5 {
+    position:absolute;
+    top:2225px;
+    right:140px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+}
+.text6 {
+    position:absolute;
+    top:2725px;
+    right:140px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 234);
+    font-style: italic;
+    border:solid
+    
+}
+
+.end {
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px red;
+   
+   
+}
+
+
+.image1{
+    text-shadow: 2px 2px 5px red;
+    font-style: italic;
+}
+
+a:link {
+    color:black
+}
+
+a:visited {
+    color:black
+}
+.img1 {
+    position:relative
+}
+
+.img1 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img1:hover p {
+    opacity:1
+
+}
+
+.img1:hover img {
+    opacity:0.33
+}
+
+.img2 {
+    position:relative
+}
+
+.img2 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img2:hover p {
+    opacity:1
+
+}
+
+.img2:hover img {
+    opacity:0.33
+}
+.img3 {
+    position:relative
+}
+
+.img3 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img3:hover p {
+    opacity:1
+
+}
+
+.img3:hover img {
+    opacity:0.33
+}
+
+.img4 {
+    position:relative
+}
+
+.img4 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img4:hover p {
+    opacity:1
+
+}
+
+.img4:hover img {
+    opacity:0.33
+}
+
+.img5 {
+    position:relative
+}
+
+.img5 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img5:hover p {
+    opacity:1
+
+}
+
+.img5:hover img {
+    opacity:0.33
+}
+.img6 {
+    position:relative
+}
+
+.img6 p {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.img6:hover p {
+    opacity:1
+
+}
+
+.img6:hover img {
+    opacity:0.33
+}
+
